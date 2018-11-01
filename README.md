@@ -1,4 +1,4 @@
-"# Tfx_api" 
+
 
 
 <p align="center">How to view API Document of TradeFinex.</p>
