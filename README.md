@@ -3,7 +3,7 @@
 
 <p align="center">How to view API Document of TradeFinex.</p>
 
-Features
+Steps to View
 ------------
 
 * **1. Clone this repository** 
